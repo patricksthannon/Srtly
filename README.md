@@ -14,13 +14,15 @@ Features:
 
 How to Use
 
-1. Run the app.*
-2. Select the folder you want to sort (Desktop, Downloads, or Other).
-3. Let it do the organizing for you.
-4. Enjoy a tidier digital space!
+1. Download Srtly.zip from this repository |  <a href="https://github.com/patricksthannon/Srtly/releases/download/v.1.0.0/Srtly.zip">
+    <img src="https://img.shields.io/github/v/release/patricksthannon/Srtly?label=Download%20Latest&style=for-the-badge"></a>
+2. Unzip and Run Srtly.*
+3. Select the folder you want to sort (Desktop, Downloads, or Other).
+4. Let it do the organizing for you.
+5. Enjoy a tidier digital space!
 
 * Mac OS may block apps downloaded from the internet because they are not signed or notarized. To open this app safely:
-1. Download and unzip the app as usual.
+1. Download and unzip the app as usual. 
 2. Right-click (or Control-click) the app icon in Finder.
 3. You’ll see a warning dialog about the app being from an unidentified developer. Click Open again to confirm.
 
