@@ -3,7 +3,7 @@
 <p align="center">
 </p><img width="128" height="128" alt="logo" src="https://github.com/user-attachments/assets/7f9b008e-71af-4d47-909c-5311abf68d2d" />  
 
-This simple AppleScript-based Mac Os App helps you automatically organize files in your chosen folder (like Downloads or Desktop) into neat, categorized subfolders — such as Images, Documents, Videos, Audio, Archives, Apps, and more.
+This simple AppleScript-based Mac Os App helps you automatically organize files in your chosen folder (like Downloads or Desktop) into neat, categorized subfolders — such as Images, Videos, Audio, Documents, Compressed Archives, Codes & Scripts, Folders(existing folders), and Other. 
 
 **Why Srtly?**
 
@@ -11,7 +11,7 @@ For many people, especially those with ADHD or organizational challenges, keepin
 
 **Features:**
 - Prompt-based folder selection (Downloads, Desktop, or any folder you choose)
-- Categorizes files by type and moves them into relevant folders (Images, Videos, Documents, Compressed Archives, Codes & Scripts, Folders, and Other)
+- Categorizes files by type and moves them into relevant folders (Images, Videos, Audio, Documents, Compressed Archives, Codes & Scripts, Folders(existing folders), and Other)
 - Automatically creates category folders if they don’t exist
 - Supports a broad range of file types: images, documents, videos, audio, archives, apps, and code files
 - Designed to reduce overwhelm and improve digital organization effortlessly
