@@ -18,7 +18,7 @@ For many people, especially those with ADHD or organizational challenges, keepin
 1. Download Srtly.zip from this repository |  <a href="https://github.com/patricksthannon/Srtly/releases/download/v1.1.0/SrtlyV1.1.0.zip">
     <img src="https://img.shields.io/github/v/release/patricksthannon/Srtly?label=Download%20Latest&style=for-the-badge"></a>
 2. Unzip and Run Srtly.*
-3. Select the folder you want to sort (Desktop, Downloads, or Other).
+3. Select the folder you want to sort (Downloads or Other).
 4. Let it do the organizing for you.
 5. Enjoy a tidier digital space!
 
