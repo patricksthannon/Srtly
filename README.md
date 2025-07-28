@@ -21,7 +21,8 @@ How to Use
 4. Let it do the organizing for you.
 5. Enjoy a tidier digital space!
 
-* Mac OS may block apps downloaded from the internet because they are not signed or notarized. To open this app safely:
+
+*Mac OS may block apps downloaded from the internet because they are not signed or notarized. To open this app safely:
 1. Download and unzip the app as usual. 
 2. Right-click (or Control-click) the app icon in Finder.
 3. You’ll see a warning dialog about the app being from an unidentified developer. Click Open again to confirm.
