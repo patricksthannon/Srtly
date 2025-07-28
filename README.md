@@ -8,7 +8,7 @@ For many people, especially those with ADHD or organizational challenges, keepin
 
 **Features:**
 - Prompt-based folder selection (Downloads, Desktop, or any folder you choose)
-- Categorizes files by type and moves them into relevant folders (Images, Videos, Documents, Codes & Scripts, Folders, and Other)
+- Categorizes files by type and moves them into relevant folders (Images, Videos, Documents, Compressed Archives, Codes & Scripts, Folders, and Other)
 - Automatically creates category folders if they don’t exist
 - Supports a broad range of file types: images, documents, videos, audio, archives, apps, and code files
 - Designed to reduce overwhelm and improve digital organization effortlessly
