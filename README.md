@@ -22,6 +22,13 @@ For many people, especially those with ADHD or organizational challenges, keepin
 4. Let it do the organizing for you.
 5. Enjoy a tidier digital space!
 
+**Screenshots:**
+
+<img width="284" height="156" alt="sort" src="https://github.com/user-attachments/assets/f0370611-dd06-47be-b14e-90b274e67da9" />
+
+<img width="535" height="212" alt="Screenshot 2025-07-28 at 4 08 50 PM" src="https://github.com/user-attachments/assets/0353add6-1bb4-410e-bbf6-845148cf2215" />
+
+---
 
 If you like this project, consider [buying me a coffee](https://www.buymeacoffee.com/patricksthannon) ! I appreciate it!
 
