@@ -1,6 +1,6 @@
 # Srtly - Mac OS Folder Organizer
 
-This simple AppleScript-based tool helps you automatically organize files in your chosen folder (like Downloads or Desktop) into neat, categorized subfolders — such as Images, Documents, Videos, Audio, Archives, Apps, and more.
+This simple AppleScript-based Mac Os App helps you automatically organize files in your chosen folder (like Downloads or Desktop) into neat, categorized subfolders — such as Images, Documents, Videos, Audio, Archives, Apps, and more.
 
 Why Srtly?
 For many people, especially those with ADHD or organizational challenges, keeping digital clutter under control can be tough. This script simplifies the process by sorting your files with just a click, helping you maintain a clean and manageable workspace without the hassle.
