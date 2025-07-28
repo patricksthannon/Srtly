@@ -7,15 +7,15 @@ For many people, especially those with ADHD or organizational challenges, keepin
 
 Features:
 - Prompt-based folder selection (Downloads, Desktop, or any folder you choose)
-- Categorizes files by type and moves them into relevant folders
+- Categorizes files by type and moves them into relevant folders (Images, Videos, Documents, Codes & Scripts, Folders, and Other)
 - Automatically creates category folders if they don’t exist
 - Supports a broad range of file types: images, documents, videos, audio, archives, apps, and code files
 - Designed to reduce overwhelm and improve digital organization effortlessly
 
 How to Use
 
-1. Run the app or script.*
-2. Select the folder you want to sort.
+1. Run the app.*
+2. Select the folder you want to sort (Desktop, Downloads, or Other).
 3. Let it do the organizing for you.
 4. Enjoy a tidier digital space!
 
