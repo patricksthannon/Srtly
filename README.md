@@ -20,7 +20,7 @@ For many people, especially those with ADHD or organizational challenges, keepin
 
 1. Download Srtly.zip from this repository |  <a href="https://github.com/patricksthannon/Srtly/releases/download/v1.1.0/SrtlyV1.1.0.zip">
     <img src="https://img.shields.io/github/v/release/patricksthannon/Srtly?label=Download%20Latest&style=for-the-badge"></a>
-2. Unzip and Run Srtly.*
+2. Unzip and Run Srtly. (*If an error occurs, or popup stating "This application cannot be opened or verified - scroll to the bottom of the page for instructions)
 3. Select the folder you want to sort (Downloads or Other).
 4. Let it do the organizing for you.
 5. Enjoy a tidier digital space!
@@ -38,7 +38,7 @@ If you like this project, consider [buying me a coffee](https://www.buymeacoffee
 <a href="https://www.buymeacoffee.com/patricksthannon" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 ___
 
-<sub>  *Mac OS may block apps downloaded from the internet because they are not signed or notarized. </sub>
+<sub>  *Mac OS may block apps downloaded from the internet because they are not signed or notarized. Completely normal, as I didnt want to pay $99 apple developer fee to verify the app so its likely to occur :| </sub>
 
 <sub>To open this app safely:</sub>
 
