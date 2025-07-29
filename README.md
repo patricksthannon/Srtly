@@ -7,11 +7,11 @@ This simple AppleScript-based Mac Os App helps you automatically organize files 
 
 **Why Srtly?**
 
-For many people, especially those with ADHD or organizational challenges, keeping digital clutter under control can be tough. This script simplifies the process by sorting your files with just a click, helping you maintain a clean and manageable workspace without the hassle.
+For many people, especially those with ADHD or organizational challenges, keeping digital clutter under control can be tough. Srtly simplifies the process by sorting your files with just a click, helping you maintain a clean and manageable workspace without the hassle.
 
 **Features:**
 - Prompt-based folder selection (Downloads, Desktop, or any folder you choose)
-- Categorizes files by type and moves them into relevant folders (Images, Videos, Audio, Documents, Compressed Archives, Codes & Scripts, Folders(existing folders), and Other)
+- Categorizes files by type and moves them into relevant folders (Images, Videos, Audio, Documents, Compressed Archives, Codes & s, Folders(existing folders), and Other)
 - Automatically creates category folders if they don’t exist
 - Supports a broad range of file types: images, documents, videos, audio, archives, apps, and code files
 - Designed to reduce overwhelm and improve digital organization effortlessly
