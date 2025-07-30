@@ -16,9 +16,14 @@ For many people, especially those with ADHD or organizational challenges, keepin
 - Supports a broad range of file types: images, documents, videos, audio, archives, apps, and code files
 - Designed to reduce overwhelm and improve digital organization effortlessly
 
+***Now in V1.2.0*** *
+- QuickAction For ease of use. Instructions available in readme.txt included in the SrtlyV1.2.0.zip
+<img width="463" height="234" alt="Screenshot 2025-07-29 at 6 25 18 PM" src="https://github.com/user-attachments/assets/4de958ed-585a-41c7-876a-942aa0358b29" />
+<br></br>
+
 **How to Use**
 
-1. Download Srtly.zip from this repository |  <a href="https://github.com/patricksthannon/Srtly/releases/download/v1.1.0/SrtlyV1.1.0.zip">
+1. Download Srtly.zip from this repository |  <a href="https://github.com/patricksthannon/Srtly/releases/download/v1.2.0/SrtlyV1.2.0.zip">
     <img src="https://img.shields.io/github/v/release/patricksthannon/Srtly?label=Download%20Latest&style=for-the-badge"></a>
 2. Unzip and Run Srtly. (*If an error occurs, or popup stating "This application cannot be opened or verified - scroll to the bottom of the page for instructions)
 3. Select the folder you want to sort (Downloads or Other).
