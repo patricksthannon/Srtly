@@ -4,7 +4,7 @@
 [![buy-me-a-coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-ffdd00?logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/patricksthannon)
 
 <p align="center">
-</p><img width="128" height="128" alt="logo" src="https://github.com/user-attachments/assets/7f9b008e-71af-4d47-909c-5311abf68d2d" />  
+<img width="128" height="128" alt="logo" src="https://github.com/user-attachments/assets/7f9b008e-71af-4d47-909c-5311abf68d2d" /> </p>
 
 This simple AppleScript-based Mac Os App helps you automatically organize files in your chosen folder (like Downloads or Desktop) into neat, categorized subfolders — such as Images, Videos, Audio, Documents, Compressed Archives, Codes & Scripts, Folders(existing folders), and Other. 
 
@@ -21,7 +21,8 @@ For many people, especially those with ADHD or organizational challenges, keepin
 
 ***Now in V1.2.0*** *
 - QuickAction For ease of use. Instructions available in readme.txt included in the SrtlyV1.2.0.zip
-<img width="463" height="234" alt="Screenshot 2025-07-29 at 6 25 18 PM" src="https://github.com/user-attachments/assets/4de958ed-585a-41c7-876a-942aa0358b29" />
+<p align="center">
+<img width="50%" height="50%" alt="Screenshot 2025-07-29 at 6 25 18 PM" src="https://github.com/user-attachments/assets/4de958ed-585a-41c7-876a-942aa0358b29" /></p>
 <br></br>
 
 <a id="download"></a>
@@ -35,10 +36,12 @@ For many people, especially those with ADHD or organizational challenges, keepin
 
 **Screenshots:**
 
-<img width="284" height="156" alt="sort" src="https://github.com/user-attachments/assets/f0370611-dd06-47be-b14e-90b274e67da9" />
+<p align="center">
 
-<img width="535" height="212" alt="Screenshot 2025-07-28 at 4 08 50 PM" src="https://github.com/user-attachments/assets/0353add6-1bb4-410e-bbf6-845148cf2215" />
-
+<img width="40%" height="40%" alt="sort" src="https://github.com/user-attachments/assets/f0370611-dd06-47be-b14e-90b274e67da9" />
+<br>
+<img width="50%" height="50%" alt="Screenshot 2025-07-28 at 4 08 50 PM" src="https://github.com/user-attachments/assets/0353add6-1bb4-410e-bbf6-845148cf2215" />
+</p>
 ---
 
 If you like this project, consider [buying me a coffee](https://www.buymeacoffee.com/patricksthannon) to keep me motivated! I appreciate it!
