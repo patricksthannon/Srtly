@@ -28,7 +28,6 @@ For many people, especially those with ADHD or organizational challenges, keepin
 **How to Use**
 
 1. Download Srtly.zip from this repository |  [![release](https://img.shields.io/github/v/release/patricksthannon/Srtly)](https://github.com/patricksthannon/Srtly/releases/latest)
-
 2. Unzip and Run Srtly. (*If an error occurs, or popup stating "This application cannot be opened or verified - scroll to the bottom of the page for instructions)
 3. Select the folder you want to sort (Downloads or Other).
 4. Let it do the organizing for you.
