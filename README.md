@@ -22,7 +22,7 @@ For many people, especially those with ADHD or organizational challenges, keepin
 ***Now in V1.2.0*** *
 - QuickAction For ease of use. Instructions available in readme.txt included in the SrtlyV1.2.0.zip
 <p align="center">
-<img width="50%" height="50%" alt="Screenshot 2025-07-29 at 6 25 18 PM" src="https://github.com/user-attachments/assets/4de958ed-585a-41c7-876a-942aa0358b29" /></p>
+<img width="500px" height="400px" alt="image: added quick action feature" src="https://github.com/user-attachments/assets/4de958ed-585a-41c7-876a-942aa0358b29" /></p>
 <br></br>
 
 <a id="download"></a>
@@ -38,9 +38,9 @@ For many people, especially those with ADHD or organizational challenges, keepin
 
 <p align="center">
 
-<img width="40%" height="40%" alt="sort" src="https://github.com/user-attachments/assets/f0370611-dd06-47be-b14e-90b274e67da9" />
+<img width="500px" height="160px" alt="image: ui" src="https://github.com/user-attachments/assets/f0370611-dd06-47be-b14e-90b274e67da9" />
 <br>
-<img width="50%" height="50%" alt="Screenshot 2025-07-28 at 4 08 50 PM" src="https://github.com/user-attachments/assets/0353add6-1bb4-410e-bbf6-845148cf2215" />
+<img width="500px" height="400px" alt="image: sorted files" src="https://github.com/user-attachments/assets/0353add6-1bb4-410e-bbf6-845148cf2215" />
 </p>
 ---
 
